@@ -1,2 +1,2 @@
-ram2.txt
+bv,snram2.txt
 rfenbqmnbam.txt
